@@ -1,5 +1,12 @@
 # 📝 To-Do App
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Made with ❤️](https://img.shields.io/badge/Made_with-%E2%9D%A4-red)](https://github.com/yourusername)
+
+
 A simple and beautiful **To-Do List App** built with **HTML, CSS, and JavaScript**.  
 Add tasks, mark them as done, and delete them with just a click.
 
