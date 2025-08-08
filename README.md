@@ -26,7 +26,7 @@ Add tasks, mark them as done, and delete them with just a click.
 
 ## 🎥 Demo
 
-![To-Do App Demo](./gif/To-Do app.gif)
+![To Do App Demo](./gif/to-do-app.gif)
 
 ---
 
